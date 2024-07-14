@@ -1,8 +1,13 @@
+html {
+    scroll-behavior: smooth;
+}
 body{
     font-family: 'Roboto', sans-serif;
     background: #FFF;
     color: #434455;
+    
 }
+
 a{
     text-decoration: none;
     font-style: normal;
